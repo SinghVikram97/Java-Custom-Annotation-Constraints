@@ -1,0 +1,5 @@
+//Custom annotation to validate that a given String may either be uppercase or lowercase
+//https://docs.jboss.org/hibernate/validator/4.1/reference/en-US/html/validator-customconstraints.html
+// Refer to above links for doubts
+
+// Just put everything in separate file otherwise it generates an error that can't instantiate the validator
